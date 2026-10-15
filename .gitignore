@@ -1,0 +1,17 @@
+# Dataset (confidential / too large for GitHub)
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
